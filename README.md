@@ -1,1 +1,5 @@
-# crime-reporting-system-project-in-react
+This Crime Reporting System Project in React JS is a simple JavaScript project in React Js. This project is a simple React JS example of a persons finder. React js and Firebase are used to create this. If you want to use this system, make sure you have Nodejs installed. This approach will ensure that you are able to complete all of the react framework’s basic steps.
+
+React JS is used to build the system. This project is a easy person-finding application. To fulfill the objective, this project use the React library. You must have Node.js installed on your machine to run this project. When you run the project, the home page is the first page that appears. You can then navigate to the menus from there. Let’s move on to the project’s main feature.
+
+Backend support for this system is provided by Firebase. To make any type of inquiry, you must first register. The user can also report missing people and file a complaint about their neighborhood. You can also report the types of crimes that are occurring in your neighborhood.
